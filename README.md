@@ -1,5 +1,7 @@
 # Diabetes-Diagnosis
-Project Name: Diabetes Diagnosis Author: [Your Name] Date: [Insert Date] Description: This project predicts whether a patient has diabetes based on medical features using machine learning techniques.
+Project Name: Diabetes Diagnosis By Ramy Lazghab
+
+Description: This project predicts whether a patient has diabetes based on medical features using machine learning techniques.
 
 1. Dataset
 The dataset contains the following features:
